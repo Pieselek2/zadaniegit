@@ -1,1 +1,1 @@
-zadanie git 
+zadanie git edytowanie przez github
